@@ -1,0 +1,16 @@
+[package]
+name = "RCS-Module"
+version = "0.1.0"
+edition = "2021"
+authors = ["nwa"]
+rust-version = "1.56"
+description = "A short description of my package"
+documentation = "https://docs.rs/bitflags"
+readme = "README.md"
+license-file = "LICENSE.txt"
+license = "Apache-2.0"
+publish = true
+
+[dependencies]
+time = "0.1.12"
+regex = "0.1.41"
